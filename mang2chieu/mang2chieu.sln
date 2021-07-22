@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mang2chieu", "mang2chieu\mang2chieu.csproj", "{9DABB3A0-C05F-4BCE-B35C-EC9E9D4FBE5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DABB3A0-C05F-4BCE-B35C-EC9E9D4FBE5C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9DABB3A0-C05F-4BCE-B35C-EC9E9D4FBE5C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9DABB3A0-C05F-4BCE-B35C-EC9E9D4FBE5C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9DABB3A0-C05F-4BCE-B35C-EC9E9D4FBE5C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FAECE89-414F-4723-B1C4-A98A0E3F1A81}
+	EndGlobalSection
+EndGlobal
